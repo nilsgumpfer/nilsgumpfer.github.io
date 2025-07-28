@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-# Research Projects (Selective)
+## Research Projects (Selective)
 
 - **RISKA – Risk Stratification in Cardiology Using AI**  
   The RISKA project focuses on developing advanced AI models to enable early and individualized risk stratification in cardiology. The goal is to analyze ECG signals alongside clinical parameters to identify patients at elevated risk of severe cardiac events such as sudden cardiac arrest or worsening heart failure.  
