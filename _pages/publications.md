@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% if site.author.googlescholar %}
+  <div class="wordwrap">The full list of papers can be accessed through my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.</div>
+{% endif %}
+
 {% include base_path %}
 
 ## Publications (Selective)
