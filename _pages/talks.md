@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Projects"
-permalink: /projects/
+title: "Talks"
+permalink: /talks/
 author_profile: true
 ---
 
 {% include base_path %}
 
-Projects Page
+Talks Page
