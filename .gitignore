@@ -16,5 +16,7 @@ package-lock.json
 /vendor/
 .bundle/
 
-# Ignore folders related to IDEs
+# Ignore folders and files related to IDEs
 .vscode/
+.idea/
+*.idea
