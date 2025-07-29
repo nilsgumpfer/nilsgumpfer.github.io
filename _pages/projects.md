@@ -47,21 +47,26 @@ author_profile: true
 
 ## Science Communication (Selective)
  
-### Time Series Pendulum
+**Time Series Pendulum**
+
 ![pendulum1.jpeg](../images/pendulum1.jpeg)
 
 ![pendulum2.png](../images/pendulum2.png)
 
 The _Time Series Pendulum_ illustrates the process and circumstances of time series generation, recording and analysis, as it can be found in industrial applications, smart home environments, wearable devices, etc. - We used a basic 1D CNN to showcase the underlying pattern analysis structures to obtain accurate classification of pendulum states.
+
 ---
 
-### YOLO Box
+**YOLO Box**
+
 ![yolo_box.jpeg](../images/yolo_box.jpeg)
 
 With the _YOLO Box_, object detection, segmentation, and classification capabilities of deep learning models can easily be understood using live webcam feeds.
+
 ---
 
-### Arduino Board
+**Arduino Board**
+
 ![arduino_board.jpg](../images/arduino_board.jpg)
 
 The _Arduino Board_ is used in teached courses, e.g., _operating systems_ or _fundamentals of computer science_. The board allows to experience embedded programming and understanding basic computer science principles with hands-on exercises.
