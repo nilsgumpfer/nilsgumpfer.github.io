@@ -54,6 +54,7 @@ author_profile: true
 ![pendulum2.png](../images/pendulum2.png)
 
 The _Time Series Pendulum_ illustrates the process and circumstances of time series generation, recording and analysis, as it can be found in industrial applications, smart home environments, wearable devices, etc. - We used a basic 1D CNN to showcase the underlying pattern analysis structures to obtain accurate classification of pendulum states.
+[[Demo]](https://gitlab.com/nilsgumpfer/pendulum-timeseries)
 
 ---
 
