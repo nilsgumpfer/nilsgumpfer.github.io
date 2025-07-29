@@ -22,3 +22,7 @@ I am a **postdoctoral researcher** at Technische Hochschule Mittelhessen in Frie
 ---
 ![sign_ecg.png](../images/sign_ecg.png)
 <span style="font-size:13px">N. Gumpfer et al. (2024). Towards Trustworthy AI in Cardiology. In: AIME ’24, Salt Lake City, UT, USA, July 9 - 12, 2024. Vol. 14845. LNCS, pp. 350–361, [DOI:10.1007/978-3-031-66535-6_36](https://doi.org/10.1007/978-3-031-66535-6_36)</span>
+
+---
+![sign_lrp.png](../images/sign_lrp.png)
+<span style="font-size:13px">N. Gumpfer et al. (2023). SIGNed Explanations: Unveiling Relevant Features by Reducing Bias. Information Fusion 99, p. 101883, [DOI:10.1016/j.inffus.2023.101883](https://doi.org/10.1016/j.inffus.2023.101883)</span>
