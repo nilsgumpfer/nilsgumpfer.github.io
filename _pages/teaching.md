@@ -52,7 +52,7 @@ author_profile: true
 - Operating Systems [[GitHub]](https://github.com/nilsgumpfer/betriebssysteme) [[Moodle]](https://moodle.thm.de/course/view.php?id=6446)
 
 ## Spring 2025
-- Machine Learning [GitHub](https://github.com/nilsgumpfer/machine_learning_stplus/tree/2025) [[Moodle]](https://moodle.thm.de/course/view.php?id=12459)
+- Machine Learning [[GitHub]](https://github.com/nilsgumpfer/machine_learning_stplus/tree/2025) [[Moodle]](https://moodle.thm.de/course/view.php?id=12459)
 
 ## Fall 2025
 - Predictive Analytics [[GitHub]](https://github.com/nilsgumpfer/predictiveanalytics/tree/2025) [[Moodle]](https://moodle.thm.de/course/view.php?id=7181)
