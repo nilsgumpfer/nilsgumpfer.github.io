@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Work in Research Projects (Selective)
+## Contributions to Research Projects (Selective)
 
 **TimeXAI - Explainable Artificial Intelligence for Time Series Classification**
   The TimeXAI project aims to enhance existing and develop novel XAI methods tailored specifically to the domain of time series classification, with strong emphasis on human interpretability of explanations and evaluation thereof. Time series have become primarily important through a growth of sensor-driven applications, but existing explainability methods are largely underdeveloped in this domain. TimeXAI aims to bridge this gap by testing and combining strengths of existing methods and co-creating new ones tailored to domains like cardiology and smart home monitoring. A central goal of the research conducted in this junior research group is the evaluation of XAI quality through eye-tracking studies with domain experts.
@@ -86,7 +86,7 @@ author_profile: true
 **My role**: Development and training of AI models, implementation of explainability methods, and practical evaluation of the approaches in clinical contexts.
 
 
-## Science Communication (Selective)
+## Science Communication and Teaching (Selective)
  
 **Time Series Pendulum**
 
