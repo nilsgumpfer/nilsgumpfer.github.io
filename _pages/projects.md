@@ -10,7 +10,7 @@ author_profile: true
 ## Contributions to Research Projects (Selective)
 
 **TimeXAI - Explainable Artificial Intelligence for Time Series Classification**
-  The TimeXAI project aims to enhance existing and develop novel XAI methods tailored specifically to the domain of time series classification, with strong emphasis on human interpretability of explanations and evaluation thereof. Time series have become primarily important through a growth of sensor-driven applications, but existing explainability methods are largely underdeveloped in this domain. TimeXAI aims to bridge this gap by testing and combining strengths of existing methods and co-creating new ones tailored to domains like cardiology and smart home monitoring. A central goal of the research conducted in this junior research group is the evaluation of XAI quality through eye-tracking studies with domain experts.
+  The TimeXAI project aims to enhance existing and develop novel XAI methods tailored specifically to the domain of time series classification, with strong emphasis on human interpretability of explanations and evaluation thereof. Time series have become primarily important through a growth of sensor-driven applications, but existing explainability methods are largely underdeveloped in this domain. TimeXAI aims to bridge this gap by testing and combining strengths of existing methods and co-creating new ones tailored to domains like cardiology and smart home monitoring. A central goal of the research conducted in this junior research group is the evaluation of XAI quality through eye-tracking studies with domain experts. [Learn more](https://www.thm.de/mnd/jennifer-hannig/timexai-erklaerbare-kuenstliche-intelligenz-fuer-zeitreihen)
 
 **Time frame**: 09/2024 - 08/2027
 
