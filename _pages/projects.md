@@ -10,8 +10,7 @@ author_profile: true
 ## Research Projects (Selective)
 
 **TimeXAI - Explainable Artificial Intelligence for Time Series Classification**
-
-The TimeXAI project aims to enhance existing and develop novel XAI methods tailored specifically to the domain of time series classification, with strong emphasis on human interpretability of explanations and evaluation thereof. Time series have become primarily important through a growth of sensor-driven applications, but existing explainability methods are largely underdeveloped in this domain. TimeXAI aims to bridge this gap by testing and combining strengths of existing methods and co-creating new ones tailored to domains like cardiology and smart home monitoring. A central goal of the research conducted in this junior research group is the evaluation of XAI quality through eye-tracking studies with domain experts.
+  The TimeXAI project aims to enhance existing and develop novel XAI methods tailored specifically to the domain of time series classification, with strong emphasis on human interpretability of explanations and evaluation thereof. Time series have become primarily important through a growth of sensor-driven applications, but existing explainability methods are largely underdeveloped in this domain. TimeXAI aims to bridge this gap by testing and combining strengths of existing methods and co-creating new ones tailored to domains like cardiology and smart home monitoring. A central goal of the research conducted in this junior research group is the evaluation of XAI quality through eye-tracking studies with domain experts.
 
 **Time frame**: 09/2024 - 08/2027
 
@@ -25,8 +24,7 @@ The TimeXAI project aims to enhance existing and develop novel XAI methods tailo
 ---
 
 **SUSTAIN‑AI ECG / ECG4Africa.org - AI‑Enhanced ECG Diagnostics for Africa**
-  As a collaboration lead by MI4People, this project aims to deploy AI‑powered ECG analysis tools in regions with limited access to cardiology expertise, starting in Ethiopia, where cardiovascular disease is highly prevalent and local diagnostics are scarce.  
-  The focus lies on developing interpretable models to detect cardiac anomalies using 12‑lead ECGs, optimizing them for deployment in resource‑limited clinical settings and establishing an african dataset for fine-tuning AI models for ECG analysis. [Learn more](https://mi4people.org/sustain-ai-ecg)
+  As a collaboration lead by MI4People, this project aims to deploy AI‑powered ECG analysis tools in regions with limited access to cardiology expertise, starting in Ethiopia, where cardiovascular disease is highly prevalent and local diagnostics are scarce. The focus lies on developing interpretable models to detect cardiac anomalies using 12‑lead ECGs, optimizing them for deployment in resource‑limited clinical settings and establishing an african dataset for fine-tuning AI models for ECG analysis. [Learn more](https://mi4people.org/sustain-ai-ecg)
   
 **Time frame**: 01/2025 - ongoing
 
@@ -39,8 +37,7 @@ The TimeXAI project aims to enhance existing and develop novel XAI methods tailo
 ---
 
 **X4Neuro - XAI for Digital Neuropathology**  
-  Meningiomas are traditionally analyzed through complex laboratory analysis. The X4Neuro project aims to extend an existing AI model for epigenetic classification of digitized histopathological slides with explainable AI techniques.  
-  The goal is to identify and visualize the cellular- or pixel-level regions that are most relevant to the model's decision, thereby increasing clinical interpretability and trust. [Learn more](https://www.thm.de/mnd/jennifer-hannig/x4neuro-xai-for-digital-neuropathology)
+  Meningiomas are traditionally analyzed through complex laboratory analysis. The X4Neuro project aims to extend an existing AI model for epigenetic classification of digitized histopathological slides with explainable AI techniques. The goal is to identify and visualize the cellular- or pixel-level regions that are most relevant to the model's decision, thereby increasing clinical interpretability and trust. [Learn more](https://www.thm.de/mnd/jennifer-hannig/x4neuro-xai-for-digital-neuropathology)
   
 **Time frame**: 10/2024 - 03/2026
 
@@ -66,8 +63,7 @@ The TimeXAI project aims to enhance existing and develop novel XAI methods tailo
 ---
 
 **HERMIQS - Heart Emergency Rescue Management IQ System**  
-  HERMIQS aims to improve emergency response workflows for cardiac incidents through intelligent systems. The project develops real-time, AI-powered tools to assist paramedics and physicians during pre-hospital and early in-hospital care.  
-  Key research areas include the integration of wearable sensor data, decision support under time-critical conditions, and explainability of AI outputs in emergency contexts. The project explores how trustworthy AI can contribute to faster, more accurate diagnosis and better patient outcomes during the so-called "golden hour" of cardiac emergencies. [Learn more](https://www.lidia-hessen.de/projekte-entdecken/hermiqs-heart-emergency-rescue-management-iq-system/)
+  HERMIQS aims to improve emergency response workflows for cardiac incidents through intelligent systems. The project develops real-time, AI-powered tools to assist paramedics and physicians during pre-hospital and early in-hospital care. Key research areas include the integration of wearable sensor data, decision support under time-critical conditions, and explainability of AI outputs in emergency contexts. The project explores how trustworthy AI can contribute to faster, more accurate diagnosis and better patient outcomes during the so-called "golden hour" of cardiac emergencies. [Learn more](https://www.lidia-hessen.de/projekte-entdecken/hermiqs-heart-emergency-rescue-management-iq-system/)
   
 **Time frame**: 10/2022 - 09/2025
 
@@ -80,8 +76,7 @@ The TimeXAI project aims to enhance existing and develop novel XAI methods tailo
 ---
 
 **RisKa - Risk Stratification in Cardiology Using AI**  
-  The RisKa project focuses on developing advanced AI models to enable early and individualized risk stratification in cardiology. The goal is to analyze ECG signals alongside clinical parameters to identify patients at elevated risk of severe cardiac events such as sudden cardiac arrest or worsening heart failure.  
-  Research emphasis includes interpretable deep learning methods that clinicians can trust, bridging the gap between algorithmic performance and real-world applicability. The project is interdisciplinary, involving experts in cardiology, data science, and explainable AI (XAI). [Learn more](https://www.lidia-hessen.de/projekte-entdecken/riska-risikostratifizierung-in-der-kardiologie-mittels-ki/)
+  The RisKa project focuses on developing advanced AI models to enable early and individualized risk stratification in cardiology. The goal is to analyze ECG signals alongside clinical parameters to identify patients at elevated risk of severe cardiac events such as sudden cardiac arrest or worsening heart failure. Research emphasis includes interpretable deep learning methods that clinicians can trust, bridging the gap between algorithmic performance and real-world applicability. The project is interdisciplinary, involving experts in cardiology, data science, and explainable AI (XAI). [Learn more](https://www.lidia-hessen.de/projekte-entdecken/riska-risikostratifizierung-in-der-kardiologie-mittels-ki/)
 
 **Time frame**: 05/2022 - 04/2024
 
