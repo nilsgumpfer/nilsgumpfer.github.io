@@ -57,3 +57,10 @@ author_profile: true
 ## Fall 2025
 - Predictive Analytics [[GitHub]](https://github.com/nilsgumpfer/predictive_analytics) [[Moodle]](https://moodle.thm.de/course/view.php?id=7181)
 - Operating Systems [[GitHub]](https://github.com/nilsgumpfer/betriebssysteme) [[Moodle]](https://moodle.thm.de/course/view.php?id=6446)
+
+## Spring 2026
+- Machine Learning [[GitHub]](https://github.com/nilsgumpfer/machine_learning_stplus) [[Moodle]](https://moodle.thm.de/course/view.php?id=12459)
+
+## Fall 2026
+- IoT Security [[GitHub]](https://github.com/nilsgumpfer/iot_security) [[Moodle]](https://moodle.thm.de/course/view.php?id=9999)
+- Operating Systems [[GitHub]](https://github.com/nilsgumpfer/betriebssysteme) [[Moodle]](https://moodle.thm.de/course/view.php?id=6446)

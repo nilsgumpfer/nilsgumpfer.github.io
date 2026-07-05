@@ -9,6 +9,11 @@ author_profile: true
 
 ## Oral Presentations and Invited Talks (Selective)
 
+- **Gumpfer N.** (2026).  
+  *XAI for Time Series.*  
+  Session Chair, Special Session on XAI for Time Series, 4th World Conference on Explainable Artificial Intelligence,  
+  Fortaleza, Brazil, July 1-3, 2026.
+
 - **Gumpfer N.** (2025b).  
   *From Saliency to Semantics: XAI for ECG Time Series Analysis.*  
   Invited talk, IEEE SPS Cycle 2 Seasonal School on Explainable AI and Applications to Biometric Signal Processing,  
