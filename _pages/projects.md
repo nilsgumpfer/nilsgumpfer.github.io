@@ -58,7 +58,15 @@ public. Each of the tools below is hands-on and freely accessible.
 <details>
 <summary>References (BibTeX)</summary>
 <pre>
-{% raw %}@article{becker-2018-audiomnist,
+{% raw %}@inproceedings{harley2015isvc,
+  title = {An Interactive Node-Link Visualization of Convolutional Neural Networks},
+  author = {Adam W Harley},
+  booktitle = {ISVC},
+  pages = {867--877},
+  year = {2015}
+}
+
+@article{becker-2018-audiomnist,
   author  = {Becker, S{\"o}ren and Ackermann, Marcel and Lapuschkin, Sebastian and M{\"u}ller, Klaus-Robert and Samek, Wojciech},
   title   = {Interpreting and Explaining Deep Neural Networks for Classification of Audio Signals},
   journal = {arXiv preprint arXiv:1807.03418},
