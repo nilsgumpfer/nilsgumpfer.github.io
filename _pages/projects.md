@@ -42,6 +42,107 @@ public. Each of the tools below is hands-on and freely accessible.
 
 ---
 
+**DeepViz Toolbox (PyTorch)**  
+  The _DeepViz Toolbox (PyTorch)_ is a modern reimplementation of the _Deep Visualization
+  Toolbox_ by Yosinski et al. (2015) built on PyTorch. It lets users interactively probe
+  convolutional neural networks — inspecting activations, feature maps, and the input
+  patterns that drive individual neurons. Going beyond the web version, it integrates
+  Concept Relevance Propagation (CRP / Concept-LRP; Achtibat et al., 2023) to explain
+  predictions in terms of human-understandable concepts, making the inner workings of CNNs
+  tangible for teaching and research.
+
+  [View on GitLab](https://gitlab.com/nilsgumpfer/deepviztoolbox-pt){: .btn .btn--primary}
+
+<figure class="align-center">
+  <img src="../images/deepviz-pt_screenshot.png" alt="Screenshot of the DeepViz Toolbox (PyTorch) interface">
+</figure>
+
+<details>
+<summary>References (BibTeX)</summary>
+<pre>
+{% raw %}@inproceedings{Yosinski2015,
+  author    = {Jason Yosinski and Jeff Clune and Anh Nguyen and Thomas Fuchs and Hod Lipson},
+  title     = {Understanding Neural Networks Through Deep Visualization},
+  booktitle = {DL Workshop, ICML' 2015},
+  year      = {2015}
+}
+
+@inproceedings{Zeiler2014,
+  author    = {Matthew D. Zeiler and Rob Fergus},
+  title     = {Visualizing and Understanding Convolutional Networks},
+  booktitle = {ECCV 2014},
+  year      = {2014}
+}
+
+@article{Achtibat2023,
+  author  = {Reduan Achtibat and Maximilian Dreyer and Ilona Eisenbraun and Sebastian Bosse and Thomas Wiegand and Wojciech Samek and Sebastian Lapuschkin},
+  title   = {From attribution maps to human-understandable explanations through Concept Relevance Propagation},
+  journal = {Nature Machine Intelligence},
+  volume  = {5},
+  pages   = {1006--1019},
+  year    = {2023}
+}{% endraw %}
+</pre>
+</details>
+
+---
+
+**DeepViz Toolbox (Time Series)**  
+  The _DeepViz Toolbox (Time Series)_ adapts the _Deep Visualization Toolbox_ concept
+  (Yosinski et al., 2015) to one-dimensional, time-series data, focusing on ECG signals from
+  the _PTB-XL_ dataset (Wagner et al., 2020). It lets users explore how a CNN processes
+  sequential signals — visualizing activations and the temporal patterns that most strongly
+  influence the network — and, like the PyTorch version, integrates Concept Relevance
+  Propagation (CRP / Concept-LRP; Achtibat et al., 2023) to explain predictions in terms of
+  human-understandable concepts, bringing these explainability techniques to the clinical
+  time-series domain.
+
+  [View on GitLab](https://gitlab.com/nilsgumpfer/deepviztoolbox-ts){: .btn .btn--primary}
+
+<figure class="align-center">
+  <img src="../images/deepviz-ts_screenshot.png" alt="Screenshot of the DeepViz Toolbox (Time Series) interface">
+</figure>
+
+<details>
+<summary>References (BibTeX)</summary>
+<pre>
+{% raw %}@inproceedings{Yosinski2015,
+  author    = {Jason Yosinski and Jeff Clune and Anh Nguyen and Thomas Fuchs and Hod Lipson},
+  title     = {Understanding Neural Networks Through Deep Visualization},
+  booktitle = {DL Workshop, ICML' 2015},
+  year      = {2015}
+}
+
+@inproceedings{Zeiler2014,
+  author    = {Matthew D. Zeiler and Rob Fergus},
+  title     = {Visualizing and Understanding Convolutional Networks},
+  booktitle = {ECCV 2014},
+  year      = {2014}
+}
+
+@article{Wagner2020,
+  author  = {Patrick Wagner and Nils Strodthoff and Ralf-Dieter Bousseljot and Dieter Kreiseler and Fatima I. Lunze and Wojciech Samek and Tobias Schaeffter},
+  title   = {{PTB-XL}, a large publicly available electrocardiography dataset},
+  journal = {Scientific Data},
+  volume  = {7},
+  number  = {1},
+  pages   = {154},
+  year    = {2020}
+}
+
+@article{Achtibat2023,
+  author  = {Reduan Achtibat and Maximilian Dreyer and Ilona Eisenbraun and Sebastian Bosse and Thomas Wiegand and Wojciech Samek and Sebastian Lapuschkin},
+  title   = {From attribution maps to human-understandable explanations through Concept Relevance Propagation},
+  journal = {Nature Machine Intelligence},
+  volume  = {5},
+  pages   = {1006--1019},
+  year    = {2023}
+}{% endraw %}
+</pre>
+</details>
+
+---
+
 **3D Neural Network Visualization for Audio Analysis**  
   This demonstrator visualizes, in interactive 3D, how a neural network processes audio.
   Built on the _AudioMNIST_ dataset of spoken digits (Becker et al., 2018), it treats the
